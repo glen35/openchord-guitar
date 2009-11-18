@@ -5,7 +5,8 @@ A document marking organizational structure of things that need to be done for O
 
   Debugging – Play the game!
   Product Testing – Play the game!
-  Hardware / PCB Design
+
+=Hardware / PCB Design =
 
     – Sparkfun forums!
     EMI reduction – Waiting on boards back, probably not an issue anymore
@@ -17,12 +18,11 @@ A document marking organizational structure of things that need to be done for O
 
   Videos – Need to work on soon, not immediate though...
   Images – We could use some promotional materials, banner ads and buttons, that sort of thing for web advertising. Ryo is working on this.
-  Documentation
 
-=Instructions=
-   – First page needs work. Also, make some sort of background so it's not so boring. Maybe in OpenOffice?? Reexport images? Find someone with Illustrator?
-  Building Instructions - Figure out a pretty webpage layout and turn the Google Docs version into an actual website that's easy to navigate...
-  Website - Still have some organization stuff to do. First, figure out how things should be organized, then work on with Ryo.
+=Documentation=
+
+  Instructions
+    – First page needs work. Also, make some sort of background so it's not so boring. Maybe in OpenOffice?? Reexport images? Find someone with Illustrator?
 
 =New Functionality=
 
