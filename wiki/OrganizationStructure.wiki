@@ -1,0 +1,37 @@
+===OrganizationStructure ===
+A document marking organizational structure of things that need to be done for OpenChord.org
+
+=Testing=
+
+  Debugging – Play the game!
+  Product Testing – Play the game!
+  Hardware / PCB Design
+
+    – Sparkfun forums!
+    EMI reduction – Waiting on boards back, probably not an issue anymore
+    Enclosures - Need to look into places to buy enclosures / shapes of guitar heads..
+    Figure out a detachable connection plate? Ribbon cable? Find in DenDen? town...
+    SMD board - Not a current priority. Soon to be, possibly. Either send to Jim or Claire, or send to Australia...
+
+=Marketing=
+
+  Videos – Need to work on soon, not immediate though...
+  Images – We could use some promotional materials, banner ads and buttons, that sort of thing for web advertising. Ryo is working on this.
+  Documentation
+
+=Instructions=
+   – First page needs work. Also, make some sort of background so it's not so boring. Maybe in OpenOffice?? Reexport images? Find someone with Illustrator?
+  Building Instructions - Figure out a pretty webpage layout and turn the Google Docs version into an actual website that's easy to navigate...
+  Website - Still have some organization stuff to do. First, figure out how things should be organized, then work on with Ryo.
+
+=New Functionality=
+
+  Vibralto - Claire is working on this.
+  Strumming – Super not a current priority
+  Coding
+
+=Wii Work= –
+  (the guitar code and the controller communication parts of the code have been separated; the new code hasn’t been tested on an actual Wii, so there’s no real guarantee that it works, at all) - Chatham needs to make a working, compilable, executable package
+  Code checking/cleanup/refactoring – Need another set of eyes
+  Porting the code to the Arduino – Not a current priority, maybe first to work on after 1.0 release?
+  Expanding to the Xbox 360. - Not a current priority
