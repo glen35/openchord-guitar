@@ -6,7 +6,7 @@ In order to get firmware on the chip, there are a couple methods. This article w
 
 = Using the default USB bootloader =
 
-If you've purchased a kit from us, then the chip that you bought comes pre-programmed with both the latest OpenChord firmware, but also with Christian BlahBlah's [http://www.obdev.at/products/vusb/bootloadhid.html BootloadHID].  This allows for easy programming via USB.
+If you've purchased a kit from us, then the chip that you bought comes pre-programmed with both the latest OpenChord firmware, but also with CChristian Starkjohann's [http://www.obdev.at/products/vusb/bootloadhid.html BootloadHID].  This allows for easy programming via USB.
 
 In order to program the guitar, first, unplug the guitar.  Then, while holding the "Plus" button, plug the guitar into your PC.  You must continue to hold the button while you program the guitar, otherwise the guitar will go into normal guitar mode.
 
